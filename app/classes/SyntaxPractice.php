@@ -17,6 +17,10 @@ class SyntaxPractice
                     * Variable name should be start with $ (dollar sign)
                     * Variable name contains with a-z, A-Z, 0-9, _
                     * No number at the first
+                * Variable 3 Standard Rules
+                    * Variable name should be with smallest latter
+                    * Variable name should be meaning-full
+                    * Variable name should be readable
          */
     }
 }
