@@ -24,9 +24,10 @@ class SyntaxPractice
 
 
             * Operator in PHP
-                * Arithmetic Operator -
+                * Arithmetic Operators -
                     * Binary ( +, -, *, /, % )
                     * Unary ( ++, --, - )
+                * Assignment Operators ( +=, -=, *=, /=, %=, .= )
          */
     }
 }
