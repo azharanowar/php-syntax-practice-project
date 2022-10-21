@@ -28,6 +28,7 @@ class SyntaxPractice
                     * Binary ( +, -, *, /, % )
                     * Unary ( ++, --, - )
                 * Assignment Operators ( +=, -=, *=, /=, %=, .= )
+                * Conditional Operators ( >, <, >=, <=, ==, !=, ===, !== )
          */
     }
 }
