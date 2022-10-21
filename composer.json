@@ -1,0 +1,14 @@
+{
+  "name": "php-syntax-practice-project/php-syntax-practice-project",
+  "description": "A simple php project to practice php syntax",
+  "type": "project",
+  "keywords": [],
+  "license": "GPLv2",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
