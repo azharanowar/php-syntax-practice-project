@@ -10,5 +10,13 @@ class SyntaxPractice
     }
     public function index() {
         echo $this->message;
+
+        /*
+            * Variable Name in PHP
+                * Variable 3 Major Rules
+                    * Variable name should be start with $ (dollar sign)
+                    * Variable name contains with a-z, A-Z, 0-9, _
+                    * No number at the first
+         */
     }
 }
