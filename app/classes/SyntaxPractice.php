@@ -7,9 +7,34 @@ class SyntaxPractice
     public $message, $x, $y, $z;
     public function __construct() {
         $this->message = "Hello Bangladesh!!!";
+        $this->x = 10;
+        $this->y = 20;
+        $this->z = 30;
     }
     public function index() {
         echo $this->message;
+        echo "<br>";
+
+        echo $this->x + $this->y;   // 30
+        echo "<br>";
+        echo $this->x - $this->y;   // -10
+        echo "<br>";
+        echo $this->x * $this->y;   // 200
+        echo "<br>";
+        echo $this->x / $this->y;   // 0.5
+        echo "<br>";
+        echo $this->x % $this->y;   // 10
+        echo "<br>";
+
+        echo $this->x++;   // 10
+        echo "<br>";
+        echo ++$this->x;   // 12
+        echo "<br>";
+        echo $this->x--;   // 12
+        echo "<br>";
+        echo --$this->x;   // 10
+        echo "<br>";
+
 
         /*
             * Variable Name in PHP
