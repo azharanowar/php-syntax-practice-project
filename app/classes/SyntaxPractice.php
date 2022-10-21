@@ -21,6 +21,12 @@ class SyntaxPractice
                     * Variable name should be with smallest latter
                     * Variable name should be meaning-full
                     * Variable name should be readable
+
+
+            * Operator in PHP
+                * Arithmetic Operator -
+                    * Binary ( +, -, *, /, % )
+                    * Unary ( ++, --, - )
          */
     }
 }
