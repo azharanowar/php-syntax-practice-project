@@ -29,6 +29,7 @@ class SyntaxPractice
                     * Unary ( ++, --, - )
                 * Assignment Operators ( +=, -=, *=, /=, %=, .= )
                 * Conditional Operators ( >, <, >=, <=, ==, !=, ===, !== )
+                * Logical Operators ( &&, ||, ! )
          */
     }
 }
