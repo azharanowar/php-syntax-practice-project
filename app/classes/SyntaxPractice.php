@@ -15,6 +15,10 @@ class SyntaxPractice
         echo $this->message;
         echo "<br>";
 
+
+        // Arithmetic Operators - Binary ( +, -, *, /, % ) Unary ( ++, --, - )
+
+        /*
         echo $this->x + $this->y;   // 30
         echo "<br>";
         echo $this->x - $this->y;   // -10
@@ -25,7 +29,9 @@ class SyntaxPractice
         echo "<br>";
         echo $this->x % $this->y;   // 10
         echo "<br>";
+        */
 
+        /*
         echo $this->x++;   // 10
         echo "<br>";
         echo ++$this->x;   // 12
@@ -34,6 +40,8 @@ class SyntaxPractice
         echo "<br>";
         echo --$this->x;   // 10
         echo "<br>";
+        */
+
 
 
         /*

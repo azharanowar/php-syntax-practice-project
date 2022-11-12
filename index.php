@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-use App\classes\SyntaxPractice;
+use app\classes\SyntaxPractice;
 
 $objSyntaxPractice = new SyntaxPractice();
 $objSyntaxPractice->index();
